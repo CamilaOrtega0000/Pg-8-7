@@ -34,4 +34,41 @@ body {
   width: 1000px;
   background-image: url("lol.jpeg");
   background-repeat: no-repeat;
-}   
+}
+
+.img4 {
+  height: 500px;
+  width: 500px;
+  background-image: url("oki1.webp");
+  background-repeat: no-repeat;
+}    
+.img5 {
+  height: 500px;
+  width: 500px;
+  background-image: url("oki22.webp");
+  background-repeat: no-repeat;
+}        
+.img6 {
+  height: 500px;
+  width: 500px;
+  background-image: url("oki\ 2.webp");
+  background-repeat: no-repeat;
+}        
+.img7 {
+  height: 500px;
+  width: 1000px;
+  background-image: url("embri\ 1.jpg");
+  background-repeat: no-repeat;
+}        
+.img8 {
+  height: 800px;
+  width: 1000px;
+  background-image: url("embri\ 2.jpeg");
+  background-repeat: no-repeat;
+}        
+.img9 {
+  height: 500px;
+  width: 1000px;
+  background-image: url("rawr.jpg");
+  background-repeat: no-repeat;
+}
