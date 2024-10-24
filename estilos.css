@@ -72,3 +72,28 @@ body {
   background-image: url("rawr.jpg");
   background-repeat: no-repeat;
 }
+.img10 {
+  height: 1000px;
+  width: 1000px;
+  background-image: url("enlace-de-hidrogeno.png");
+  background-repeat: no-repeat;
+}
+
+.img11 {
+  height: 900px;
+  width: 800px;
+  background-image: url("enlace-metalico-e1602338829425.png");
+  background-repeat: no-repeat;
+}
+.img12 {
+  height: 1000px;
+  width: 1000px;
+  background-image: url("enlace-covalente-simple-e1535458209730.jpg");
+  background-repeat: no-repeat;
+}
+.img13 {
+  height: 300px;
+  width: 500px;
+  background-image: url("images.png");
+  background-repeat: no-repeat;
+}
