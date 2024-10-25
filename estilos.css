@@ -1,7 +1,7 @@
 /* Temas del segundo período*/
 
 .texto {
-  font-size: 50px;
+  font-size: 40px;
   padding-top: 140px;
   text-align: justify;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serifs;
@@ -137,42 +137,108 @@ body {
 .img20 {
   height: 200px;
   width: 500px;
-  background-image: url("mu");
+  background-image: url("noche.png");
   background-repeat: no-repeat;
 }
 .img21 {
   height: 200px;
   width: 500px;
-  background-image: url("mu");
+  background-image: url("c.png");
   background-repeat: no-repeat;
 }
 .img22 {
   height: 200px;
   width: 500px;
-  background-image: url("mu");
+  background-image: url("caa.png");
   background-repeat: no-repeat;
 }
 .img23 {
   height: 200px;
   width: 500px;
-  background-image: url("mu");
+  background-image: url("oki5566.png");
   background-repeat: no-repeat;
 }
 .img24 {
   height: 200px;
   width: 500px;
-  background-image: url("mu");
+  background-image: url("sapa.png");
   background-repeat: no-repeat;
 }
 .img25 {
-  height: 200px;
-  width: 500px;
-  background-image: url("mu");
+  height: 150px;
+  width: 300px;
+  background-image: url("woof\ woof.png");
   background-repeat: no-repeat;
 }
 .img26 {
-  height: 200px;
+  height: 70px;
   width: 500px;
-  background-image: url("mu");
+  background-image: url("meow.png");
+  background-repeat: no-repeat;
+}
+.img27 {
+  height: 150px;
+  width: 300px;
+  background-image: url("nose.png");
+  background-repeat: no-repeat;
+}
+.img28 {
+  height: 150px;
+  width: 300px;
+  background-image: url("quepongo.png");
+  background-repeat: no-repeat;
+}
+.img29 {
+  height: 150px;
+  width: 300px;
+  background-image: url("okokokok.png");
+  background-repeat: no-repeat;
+}
+.img30 {
+  height: 150px;
+  width: 300px;
+  background-image: url("estoycansadaaaaaaaaaa.png");
+  background-repeat: no-repeat;
+}
+.img31 {
+  height: 150px;
+  width: 300px;
+  background-image: url("woof\ woof.png");
+  background-repeat: no-repeat;
+}
+.img32 {
+  height: 150px;
+  width: 300px;
+  background-image: url("woof\ woof.png");
+  background-repeat: no-repeat;
+}
+.img33 {
+  height: 150px;
+  width: 300px;
+  background-image: url("woof\ woof.png");
+  background-repeat: no-repeat;
+}
+.img34 {
+  height: 150px;
+  width: 300px;
+  background-image: url("woof\ woof.png");
+  background-repeat: no-repeat;
+}
+.img35 {
+  height: 150px;
+  width: 300px;
+  background-image: url("woof\ woof.png");
+  background-repeat: no-repeat;
+}
+.img36 {
+  height: 150px;
+  width: 300px;
+  background-image: url("woof\ woof.png");
+  background-repeat: no-repeat;
+}
+.img37 {
+  height: 150px;
+  width: 300px;
+  background-image: url("woof\ woof.png");
   background-repeat: no-repeat;
 }
